@@ -1,0 +1,27 @@
+/* general settings */
+
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 26px;
+    color: #656363;
+    padding: 0px;
+    margin: 0px;
+}
+h1, h2, h3, p, a{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    width: 1110px;
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+/* header */
+
+.header-container{
+    display: flex;
+}
+.header-wrap{
+    display: flex;
+}
