@@ -41,16 +41,21 @@ body{
     color: #FFF;
     font-weight: 700;
     font-size: 18px;
+    margin-left: 20px;
+}
+.header-number{
+    margin-left: 8px;
 }
 .phone-text{
     color: #FFF;
     font-size: 14px;
     font-weight: 400;
 }
+.header-phone-img{
+    position: fixed;
+    width: 23;
+}
 .phone-wrap{
-    flex-wrap: wrap;
-    align-items: center;
+    margin-left: 10px;
 }
-.phone-text{
 
-}
